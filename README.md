@@ -1,0 +1,1 @@
+The project consists of a ML which does a linear regression on the train csv file and uses the test csv file to generate the result csv predictions based on the area of land and gives the equivanlent result of the prices that it would be sold on.
